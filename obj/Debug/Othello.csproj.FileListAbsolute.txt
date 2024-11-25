@@ -1,0 +1,62 @@
+F:\Project5 v2\bin\Debug\Project5.exe.config
+F:\Project5 v2\bin\Debug\Project5.exe
+F:\Project5 v2\bin\Debug\Project5.pdb
+F:\Project5 v2\obj\Debug\Othello.csprojAssemblyReference.cache
+F:\Project5 v2\obj\Debug\Project5.Othello.resources
+F:\Project5 v2\obj\Debug\Project5.Properties.Resources.resources
+F:\Project5 v2\obj\Debug\Othello.csproj.GenerateResource.cache
+F:\Project5 v2\obj\Debug\Othello.csproj.CoreCompileInputs.cache
+F:\Project5 v2\obj\Debug\Project5.exe
+F:\Project5 v2\obj\Debug\Project5.pdb
+F:\Project5 v2\bin\Debug\Project5.exe.CodeAnalysisLog.xml
+F:\Project5 v2\bin\Debug\Project5.exe.lastcodeanalysissucceeded
+F:\Project5 v2 - Copy\bin\Debug\Project5.exe.config
+F:\Project5 v2 - Copy\bin\Debug\Project5.exe
+F:\Project5 v2 - Copy\bin\Debug\Project5.pdb
+F:\Project5 v2 - Copy\obj\Debug\Project5.Othello.resources
+F:\Project5 v2 - Copy\obj\Debug\Project5.Properties.Resources.resources
+F:\Project5 v2 - Copy\obj\Debug\Othello.csproj.GenerateResource.cache
+F:\Project5 v2 - Copy\obj\Debug\Othello.csproj.CoreCompileInputs.cache
+F:\Project5 v2 - Copy\obj\Debug\Project5.exe
+F:\Project5 v2 - Copy\obj\Debug\Project5.pdb
+F:\Project5 v2 - Copy\obj\Debug\Othello.csprojAssemblyReference.cache
+F:\Project5 v3\bin\Debug\Project5.exe.config
+F:\Project5 v3\bin\Debug\Project5.exe
+F:\Project5 v3\bin\Debug\Project5.pdb
+F:\Project5 v3\obj\Debug\Project5.Othello.resources
+F:\Project5 v3\obj\Debug\Project5.Properties.Resources.resources
+F:\Project5 v3\obj\Debug\Othello.csproj.GenerateResource.cache
+F:\Project5 v3\obj\Debug\Othello.csproj.CoreCompileInputs.cache
+F:\Project5 v3\obj\Debug\Project5.exe
+F:\Project5 v3\obj\Debug\Project5.pdb
+F:\Project5 v3\obj\Debug\Othello.csprojAssemblyReference.cache
+F:\Othello V3.1\obj\Debug\Othello.csprojAssemblyReference.cache
+F:\Othello V3.1\obj\Debug\Project5.Othello.resources
+F:\Othello V3.1\obj\Debug\Othello.csproj.GenerateResource.cache
+F:\Othello V3.1\obj\Debug\Othello.csproj.CoreCompileInputs.cache
+F:\Othello V3.1\obj\Debug\Othello.Properties.Resources.resources
+F:\Othello V3.1\bin\Debug\Othello Game.exe.config
+F:\Othello V3.1\bin\Debug\Othello Game.exe
+F:\Othello V3.1\bin\Debug\Othello Game.pdb
+F:\Othello V3.1\obj\Debug\Othello Game.exe
+F:\Othello V3.1\obj\Debug\Othello Game.pdb
+D:\Uni\OOP Arasteh\OOP arasteh\Othello Amin Mirzaei\Othello V3.1\bin\Debug\Othello Game.exe.config
+D:\Uni\OOP Arasteh\OOP arasteh\Othello Amin Mirzaei\Othello V3.1\bin\Debug\Othello Game.exe
+D:\Uni\OOP Arasteh\OOP arasteh\Othello Amin Mirzaei\Othello V3.1\bin\Debug\Othello Game.pdb
+D:\Uni\OOP Arasteh\OOP arasteh\Othello Amin Mirzaei\Othello V3.1\obj\Debug\Othello.csproj.AssemblyReference.cache
+D:\Uni\OOP Arasteh\OOP arasteh\Othello Amin Mirzaei\Othello V3.1\obj\Debug\Othello.Properties.Resources.resources
+D:\Uni\OOP Arasteh\OOP arasteh\Othello Amin Mirzaei\Othello V3.1\obj\Debug\Othello.csproj.GenerateResource.cache
+D:\Uni\OOP Arasteh\OOP arasteh\Othello Amin Mirzaei\Othello V3.1\obj\Debug\Othello.csproj.CoreCompileInputs.cache
+D:\Uni\OOP Arasteh\OOP arasteh\Othello Amin Mirzaei\Othello V3.1\obj\Debug\Othello Game.exe
+D:\Uni\OOP Arasteh\OOP arasteh\Othello Amin Mirzaei\Othello V3.1\obj\Debug\Othello Game.pdb
+D:\Uni\OOP Arasteh\OOP arasteh\Othello Amin Mirzaei\Othello V3.1\obj\Debug\Othello.Othello.resources
+E:\Files\Uni\OOP Arasteh\OOP arasteh\Othello Amin Mirzaei\Othello V3.1\bin\Debug\Othello Game.exe.config
+E:\Files\Uni\OOP Arasteh\OOP arasteh\Othello Amin Mirzaei\Othello V3.1\bin\Debug\Othello Game.exe
+E:\Files\Uni\OOP Arasteh\OOP arasteh\Othello Amin Mirzaei\Othello V3.1\bin\Debug\Othello Game.pdb
+E:\Files\Uni\OOP Arasteh\OOP arasteh\Othello Amin Mirzaei\Othello V3.1\obj\Debug\Othello.csproj.AssemblyReference.cache
+E:\Files\Uni\OOP Arasteh\OOP arasteh\Othello Amin Mirzaei\Othello V3.1\obj\Debug\Othello.Othello.resources
+E:\Files\Uni\OOP Arasteh\OOP arasteh\Othello Amin Mirzaei\Othello V3.1\obj\Debug\Othello.Properties.Resources.resources
+E:\Files\Uni\OOP Arasteh\OOP arasteh\Othello Amin Mirzaei\Othello V3.1\obj\Debug\Othello.csproj.GenerateResource.cache
+E:\Files\Uni\OOP Arasteh\OOP arasteh\Othello Amin Mirzaei\Othello V3.1\obj\Debug\Othello.csproj.CoreCompileInputs.cache
+E:\Files\Uni\OOP Arasteh\OOP arasteh\Othello Amin Mirzaei\Othello V3.1\obj\Debug\Othello Game.exe
+E:\Files\Uni\OOP Arasteh\OOP arasteh\Othello Amin Mirzaei\Othello V3.1\obj\Debug\Othello Game.pdb
